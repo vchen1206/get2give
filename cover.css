@@ -1,0 +1,24 @@
+body {
+  background-image: url("assets/piccc.jpeg");
+  background-size:cover;
+}
+
+#tit {
+  font-family: Garamond;
+  font-weight: extra-bold;
+  font-style: italic;
+  text-align: center;
+  font-size: 150px;
+  margin-top: 70px;
+  margin-bottom: 50px;
+  color: #687873;
+}
+
+h1 {
+  font-family: Garamond;
+  font-weight: extra-bold;
+  font-style: italic;
+  text-align: center;
+  font-size: 70px;
+  color: #e4edea;
+}
